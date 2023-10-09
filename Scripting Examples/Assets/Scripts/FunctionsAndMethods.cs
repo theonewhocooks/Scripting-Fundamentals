@@ -30,7 +30,7 @@ public class FunctionsAndMethods : MonoBehaviour
 
     private void IncreaseScore()
     {
-        Score++; // Score = Score +1
+        _Score++; // Score = Score +1
     }
 
     private void MovePlayer()
